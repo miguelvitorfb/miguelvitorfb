@@ -1,28 +1,32 @@
 👋 Olá, eu sou o Miguel Vitor
 
-Sou desenvolvedor Full Stack em formação, com foco em JavaScript (Node.js, React, HTML e CSS).
-Atualmente, estou aprimorando minhas habilidades em criação de interfaces modernas e integração entre front e back-end.
+Sou Desenvolvedor Full Stack com foco em JavaScript, Node.js, React, HTML e CSS.
+Formado pelo DevClub, desenvolvo aplicações completas — do front-end moderno e responsivo ao back-end escalável e seguro.
 
-🚀 Meu objetivo é construir aplicações claras, funcionais e com código limpo — transformando ideias em soluções reais.
-💡 Tenho curiosidade constante e gosto de entender como cada parte da aplicação se conecta.
-🤝 Aberto a freelas, parcerias e oportunidades para crescer profissionalmente e contribuir com projetos que façam sentido.
+🚀 Gosto de transformar ideias em código funcional, unindo design limpo, lógica e performance.
+💡 Tenho uma mentalidade de crescimento constante, buscando sempre aprimorar minhas práticas e aprender novas tecnologias.
+🤝 Aberto a freelas, colaborações e oportunidades que me desafiem a evoluir e gerar impacto real.
 
-🛠️ Tecnologias que utilizo
+🛠️ Tecnologias e ferramentas
 
-Linguagens: JavaScript, HTML, CSS
-
-Front-end: React, Next.js
+Front-end: React, Next.js, HTML, CSS
 
 Back-end: Node.js, Express
 
 Banco de Dados: PostgreSQL, Prisma
 
-Outros: Git, GitHub, Vercel
+Outros: Git, GitHub, Vercel, API REST
 
-📈 Em evolução constante
+📈 Meu foco atual
 
-Atualmente estudando arquitetura de software, boas práticas de código e integração full stack.
-Busco sempre escrever código organizado, performático e legível, com foco em resultados reais.
+Aprimorar minhas habilidades em arquitetura de software, boas práticas, integração de sistemas e desempenho full stack.
+Busco sempre escrever código limpo, organizado e eficiente, com atenção a detalhes e experiência do usuário.
+
+🎓 Formação
+
+Desenvolvedor Full Stack – DevClub
+
+Projetos práticos com tecnologias modernas e foco em mercado real.
 
 📫 Como me encontrar
 
